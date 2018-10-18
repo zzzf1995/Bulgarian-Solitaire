@@ -1,7 +1,3 @@
-// Name: Yichuan Zhao
-// USC NetID: yichuanz
-// CSCI455 PA2
-// Fall 2018
 
 import java.util.Scanner;
 import java.util.ArrayList;
